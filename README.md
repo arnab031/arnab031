@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Recess](https://github.com/arnab031/Desgen)
 
-- 🌱 I’m currently learning **Figma, PyTorch and CNN**
+- 🌱 I’m currently learning **Figma, React, PyTorch and CNN**
 
 
 - 📫 Contact me **[here](arnabbhakta23@gmail.com)**
