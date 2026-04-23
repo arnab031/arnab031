@@ -50,7 +50,7 @@ Founding Engineer at **[Utsav](https://utsavapp.in)** — India's first subscrip
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Databases & Search**
+**Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -78,19 +78,12 @@ Founding Engineer at **[Utsav](https://utsavapp.in)** — India's first subscrip
 DMs open if you're:
 - Scaling a production AI agent platform or recurring-payments infra
 - Building consumer fintech in India
-- Hiring senior full-stack / applied AI engineers in Bangalore
+- Curious about the intersection of technology and tradition
 
 ---
 
-## 📊 GitHub Stats
-
-<div>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=arnab031&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab031&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-</div>
-
-<br />
-
 <div align="center">
   <sub>Ship-in-public daily. Based in Bengaluru.</sub>
+  <br />
+  <sub>Most of my current work lives in private Utsav repos — see the contribution graph above for actual activity.</sub>
 </div>
